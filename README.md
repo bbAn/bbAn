@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbAn
-- 👀 I’m interested in Web UI Development, React, JavaScript
+- 👀 I’m interested in Web UI Development, React, JS, TS
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me damaskrose83@gmail.com
