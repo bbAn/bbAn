@@ -38,8 +38,9 @@
 - 컴포넌트 아키텍처 설계 및 성능 최적화
 
 **LS일렉트릭 GridSol AMS** (2022-2024)
-- iF Design Award 2024 본상 수상
+- React/TypeScript 기반 모니터링 시스템 프론트엔드 개발
 - Highcharts.js 기반 데이터 시각화
+- iF Design Award 2024 본상 수상
 
 **웹 접근성 인증**
 - 현대자동차, NH농협, 씨티은행, SKT
