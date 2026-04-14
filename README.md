@@ -42,7 +42,7 @@
   - 전력 설비 자산 관리 최적화 플랫폼
   - React/TypeScript 기반 모니터링 시스템 프론트엔드 개발
   - Highcharts.js 기반 데이터 시각화 구현
-  - 
+    
 - **O&M (Operation & Maintenance)** (2021-2022)
   - React/TypeScript 기반 태양광발전소 유지보수 관리 모니터링 시스템 프론트엔드 개발
 
