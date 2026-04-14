@@ -37,10 +37,14 @@
 - React/TypeScript 기반 챗봇 프론트엔드 개발
 - 컴포넌트 아키텍처 설계 및 성능 최적화
 
-**LS일렉트릭 GridSol AMS** (2022-2024)
-- React/TypeScript 기반 모니터링 시스템 프론트엔드 개발
-- Highcharts.js 기반 데이터 시각화
-- iF Design Award 2024 본상 수상
+**LS일렉트릭** (2021-2024)
+- **GridSol AMS(Asset Management)** (2022-2024)
+  - 전력 설비 자산 관리 최적화 플랫폼
+  - React/TypeScript 기반 모니터링 시스템 프론트엔드 개발
+  - Highcharts.js 기반 데이터 시각화 구현
+  - 
+- **O&M (Operation & Maintenance)** (2021-2022)
+  - React/TypeScript 기반 태양광발전소 유지보수 관리 모니터링 시스템 프론트엔드 개발
 
 **웹 접근성 인증**
 - 현대자동차, NH농협, 씨티은행, SKT
