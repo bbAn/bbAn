@@ -30,6 +30,15 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=flat-square&logo=sparkles&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-412991?style=flat-square&logo=openai&logoColor=white)
+
+## 🤖 AI-Assisted Development
+
+- ChatGPT, Claude 등 AI 도구를 효과적으로 활용한 개발
+- AI가 제시하는 코드를 이해하고 프로젝트에 맞게 적용
+- 복잡한 기술 문제를 AI와 협력하여 빠르게 해결
+- AI는 도구일 뿐, 문제 해결의 핵심은 개발자의 이해와 판단 
 
 ## 💼 주요 경력
 
