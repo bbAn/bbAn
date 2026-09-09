@@ -30,8 +30,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+**Development Approach**
+
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=flat-square&logo=sparkles&logoColor=white)
 ![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-412991?style=flat-square&logo=openai&logoColor=white)
+
 
 ## 🤖 AI-Assisted Development
 
@@ -40,20 +44,26 @@
 - 복잡한 기술 문제를 AI와 협력하여 빠르게 해결
 - AI는 도구일 뿐, 문제 해결의 핵심은 개발자의 이해와 판단
   
-## 🌱 현재 & 향후 계획
+## 🌱 현재 & 학습 중
 
 **현재 진행 중**
 - 종합예술대회 운영 플랫폼 프론트엔드 개발
 - React 기반 어드민 시스템 구축
 
-**준비 중**
-- 풀스택 개발로의 확장 (백엔드, DB 학습)
+**풀스택 개발로의 확장 준비**
+- 백엔드 기초 학습 (Java/Spring)
+- 데이터베이스 설계 및 최적화
+
+## 🚀 향후 계획
+- 프론트엔드 개발자에서 시작해 Full-stack → Product Engineer → AI Orchestrator로 진화
+- AI 시대에 "코드를 짜는 개발자"에서 "시스템을 책임지는 개발자"로 성장하는 것을 목표
 
 ## 💼 주요 경력
 
 **SKT AI Agent** (2025-2026)
 - React/TypeScript 기반 챗봇 프론트엔드 개발
 - 컴포넌트 아키텍처 설계 및 성능 최적화
+- 웹 접근성 적용 및 인증
 
 **LS일렉트릭** (2021-2024)
 - **GridSol AMS(Asset Management)** (2022-2024)
